@@ -1,5 +1,5 @@
 # Clicky Game
-"Clicky Game", a game designed to test your memory and play
+"Clicky Game", a game designed to test your memory.
 
 
  ---
