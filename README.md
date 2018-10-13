@@ -1,4 +1,4 @@
-# clicky_game
+# Clicky Game
 "Clicky Game", a game designed to test your memory and play
 
 
